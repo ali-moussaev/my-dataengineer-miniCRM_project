@@ -69,5 +69,3 @@ Sécurité : Renforcer la sécurité lors du traitement et du stockage des donn�
 Auteur
 Ali Moussaev
 Projet réalisé dans le cadre d'une recherche d'alternance.
-Licence
-Ce projet est sous licence MIT. Vous pouvez consulter le fichier LICENSE pour plus de détails.
