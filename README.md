@@ -127,4 +127,4 @@ Les contributions sont les bienvenues ! Pour contribuer :
 5. Ouvrez une Pull Request
 
 ## 📄 Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT.
