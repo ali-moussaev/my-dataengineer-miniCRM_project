@@ -1,0 +1,41 @@
+ # Fichiers de base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Fichiers de logs
+*.log
+*.log.*
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environnements virtuels
+venv/
+env/
+.env/
+.venv/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers CSV générés
+newdataset_startup.csv
+
+# Fichiers IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers de configuration locaux
+.env
+.env.local
