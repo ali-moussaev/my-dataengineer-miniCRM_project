@@ -21,3 +21,26 @@ dtype: int64
 2025-03-05 22:51:24,152 - INFO - ===================================
 2025-03-05 22:51:24,152 - INFO - Traitement du fichier CSV termine
 2025-03-05 22:51:24,152 - INFO - ===================================
+2025-03-06 00:01:03,960 - INFO - ===================================
+2025-03-06 00:01:03,961 - INFO - Debut du traitement du fichier CSV
+2025-03-06 00:01:03,961 - INFO - ===================================
+2025-03-06 00:01:03,961 - INFO - Chargement du fichier CSV...
+2025-03-06 00:01:03,969 - INFO - Fichier CSV charge avec succes.
+2025-03-06 00:01:03,971 - INFO - Valeurs manquantes avant suppression :
+nom       0
+prenom    0
+email     0
+age       4
+pays      2
+dtype: int64
+2025-03-06 00:01:03,971 - INFO - Suppression des doublons...
+2025-03-06 00:01:03,974 - INFO - Suppression des lignes avec des valeurs manquantes...
+2025-03-06 00:01:03,976 - INFO - Validation des adresses email...
+2025-03-06 00:01:03,978 - INFO - Filtrage des lignes avec des emails valides...
+2025-03-06 00:01:03,979 - INFO - Verification et conversion de l'age...
+2025-03-06 00:01:03,984 - INFO - Enregistrement du DataFrame dans un nouveau fichier CSV...
+2025-03-06 00:01:03,988 - INFO - Les donnees ont ete enregistrees dans 'C:\Users\Shonan\Desktop\MyDataEngineerProject\myproject_miniCRM_startup\newdataset_startup.csv'.
+2025-03-06 00:01:04,001 - INFO - Les donnees ont ete inserees dans la base de donnees utilisateurs.db.
+2025-03-06 00:01:04,001 - INFO - ===================================
+2025-03-06 00:01:04,001 - INFO - Traitement du fichier CSV termine
+2025-03-06 00:01:04,001 - INFO - ===================================
