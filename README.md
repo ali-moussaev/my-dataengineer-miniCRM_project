@@ -81,4 +81,4 @@ Les logs sont générés dans `data_processing.log` avec rotation automatique de
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou proposer une pull request.
 
 ## 📄 Licence
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
+Ce projet est sous licence MIT.
